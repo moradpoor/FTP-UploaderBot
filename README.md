@@ -13,7 +13,7 @@ ubuntu 20 or above
 
 # How to Use
 
-* Change Details in config.py
 * navigate to bot folder
+* Change Details in config.py
 * python3 bot.py
 
